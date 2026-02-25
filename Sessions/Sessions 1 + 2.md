@@ -163,21 +163,6 @@ service:
 
 ---
 
-## Forensic extraction
-
-- `binwalk -e (file)`
-- `foremost ./(file)`
-
----
-
-## Curl
-
-- can use to download file in web server onto local machine
-
-`curl  --path-as-is (online file) --output (local file)`
-
----
-
 ## Uploading File from Local Attack  Machine to Victim
 
 ### Method 1
