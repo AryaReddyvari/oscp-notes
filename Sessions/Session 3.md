@@ -2,7 +2,7 @@
 layout: default
 title: "Session 3"  # What shows in the sidebar
 parent: "Sessions" # e.g., Enumeration
-nav_order: 2           # Position in the list
+nav_order: 3           # Position in the list
 ---
 
 ## Curl
