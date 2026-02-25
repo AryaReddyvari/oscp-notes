@@ -115,6 +115,7 @@ Command: `foremost -i (file) -o (output_dir)`
 
 {: .note }
 > Download files into `/tmp` or `/dev/shm` on box, where everyone has write/execute permissions.
+
 ---
 
 ## GTFOBins
