@@ -8,3 +8,6 @@ search_enabled: true
 
 # Navigation settings
 nav_sort: "order"
+
+#dark color scheme
+color_scheme: dark
