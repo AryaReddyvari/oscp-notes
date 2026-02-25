@@ -1,7 +1,10 @@
 remote_theme: "just-the-docs/just-the-docs"
-title: "OSCP Notes"
-description: "Documentation for my OSCP Notes"
-
-# This tells Jekyll where the site lives in the subfolder
-baseurl: "/oscp-notes" 
+title: "Arya's OSCP Notes"
+baseurl: "/oscp-notes"
 url: "https://AryaReddyvari.github.io"
+
+# Enable the search bar
+search_enabled: true
+
+# Navigation settings
+nav_sort: "order"
