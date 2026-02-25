@@ -5,7 +5,7 @@ parent: "Sessions" # e.g., Enumeration
 nav_order: 3           # Position in the list
 ---
 
-# Sessions 3 & 4
+# Sessions 3 & 4 Notes
 
 ## Curl
 
