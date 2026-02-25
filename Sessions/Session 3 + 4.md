@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Session 3 + 4"  # What shows in the sidebar
+title: "Session 3 & 4"  # What shows in the sidebar
 parent: "Sessions" # e.g., Enumeration
 nav_order: 3           # Position in the list
 ---
