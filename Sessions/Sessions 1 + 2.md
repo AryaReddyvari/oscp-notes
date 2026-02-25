@@ -2,7 +2,7 @@
 layout: default
 title: "Sessions 1 & 2"  # What shows in the sidebar
 parent: "Sessions" # e.g., Enumeration
-nav_order: 1           # Position in the list
+nav_order: 2           # Position in the list
 ---
 
 # Sessions 1 & 2 Notes
