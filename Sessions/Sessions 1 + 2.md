@@ -1,3 +1,4 @@
+# Sessions 1 & 2 Notes
 
 ## TMUX
 
