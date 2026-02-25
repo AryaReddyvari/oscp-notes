@@ -1,9 +1,12 @@
 ---
 layout: default
-title: "Session 3 & 4"  # What shows in the sidebar
+title: "Sessions 3 & 4"  # What shows in the sidebar
 parent: "Sessions" # e.g., Enumeration
 nav_order: 3           # Position in the list
 ---
+
+# Sessions 3 & 4
+
 ## Curl
 
 - can use to download file in web server onto local machine
